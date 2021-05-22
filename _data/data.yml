@@ -19,21 +19,18 @@ sidebar:
     github: totewar
 
     languages:
-      - idiom: Sydney Innovation Festival
-        level:
+      - idiom: Crisis or Opportunity?
+        level: Sydney Innovation Festival
 
-      - idiom: University of Sydney
-        level:
+      - idiom: Scaling High Performance Teams
+        level: University of Sydney
 
-      - idiom: Google
-        level:
+      - idiom: Measuring Success for Documentation
+        level: Google
 
-      - idiom: Atlassian
-        level:
-
-      - idiom: Deputy
-        level:
-          
+      - idiom: Experimentats with Automated Documentation
+        level: Atlassian
+      
     interests:
       - item: Certified Product Manager
         link: https://certificates.aipmm.com/914ff514-8419-41e4-ad0f-2f3094b34977#gs.1ziulq
