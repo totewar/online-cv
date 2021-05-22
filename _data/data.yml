@@ -20,15 +20,20 @@ sidebar:
 
     languages:
       - idiom: Sydney Innovation Festival
+        level:
 
       - idiom: University of Sydney
+        level:
 
       - idiom: Google
+        level:
 
       - idiom: Atlassian
+        level:
 
       - idiom: Deputy
-
+        level:
+          
     interests:
       - item: Certified Product Manager
         link: https://certificates.aipmm.com/914ff514-8419-41e4-ad0f-2f3094b34977#gs.1ziulq
@@ -53,6 +58,9 @@ sidebar:
 
       - item: Algorithms Design and Analysis
         link: https://prod-cert-bucket.s3.amazonaws.com/downloads/44c95fc3d5b1418f8293186bb88e569f/Statement.pdf
+
+      - item: Writing in the Sciences
+        link: https://prod-cert-bucket.s3.amazonaws.com/downloads/b91830fb8115415abffe2f138fcf4943/Statement.pdf
 
       - item: Psychological First Aid
         link: https://www.coursera.org/account/accomplishments/certificate/RLGVRHFRBXMG
