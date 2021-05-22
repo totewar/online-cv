@@ -19,49 +19,43 @@ sidebar:
     github: totewar
 
     languages:
-      - idiom: Certified Product Manager
-        level: AIPMM
-        link: https://certificates.aipmm.com/914ff514-8419-41e4-ad0f-2f3094b34977#gs.1ziulq
+      - idiom: Sydney Innovation Festival
 
-      - idiom: Certified Product Marketing Manager
-        level: AIPMM
+      - idiom: University of Sydney
 
-      - idiom: Professional Scrum Product Owner
-        level: Scrum.org
+      - idiom: Google
 
-      - idiom: Professional Scrum Master
-        level: Scrum.org
+      - idiom: Atlassian
 
-      - idiom: Customer Journey Mapping
-        level: UXPressia
-
-      - idiom: Enterprise Design Thinking
-        level: IBM
-
-      - idiom: Data Studio
-        level: Google
-
-      - idiom: Algorithms Design and Analysis
-        level: Stanford University
-
-      - idiom: Psychological First Aid
-        level: John Hopkins University
+      - idiom: Deputy
 
     interests:
-      - item: Sydney Innovation Festival
-        link: https://whatson.cityofsydney.nsw.gov.au/events/sydney-innovation-festival
+      - item: Certified Product Manager
+        link: https://certificates.aipmm.com/914ff514-8419-41e4-ad0f-2f3094b34977#gs.1ziulq
 
-      - item: University of Sydney
-        link:
+      - item: Professional Scrum Product Owner
+        link: https://www.scrum.org/certificates/325697
 
-      - item: Google
-        link:
+      - item: Certified Product Marketing Manager
+        link: https://certificates.aipmm.com/f9b16eb7-03bc-46f2-a2fd-be97d5c27cc9#gs.1zjvo3
 
-      - item: Atlassian
-        link:
+      - item: Professional Scrum Master
+        link: https://www.scrum.org/certificates/319526
 
-      - item: Deputy
-        link:
+      - item: Enterprise Design Thinking Practitioner
+        link: https://www.youracclaim.com/badges/c5aa407e-139c-48f9-b30b-cb6f14932db9
+
+      - item: Customer Journey Mapping
+        link: https://www.academy.uxpressia.com/certificate/UXPA-110301
+
+      - item: Google Data Studio
+        link: https://analytics.google.com/analytics/academy/certificate/vCB-gB4dSe61CKPcb5KMIw
+
+      - item: Algorithms Design and Analysis
+        link: https://prod-cert-bucket.s3.amazonaws.com/downloads/44c95fc3d5b1418f8293186bb88e569f/Statement.pdf
+
+      - item: Psychological First Aid
+        link: https://www.coursera.org/account/accomplishments/certificate/RLGVRHFRBXMG
 
 career-profile:
     title: Career Profile
