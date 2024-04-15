@@ -18,7 +18,6 @@ sidebar:
     linkedin: sunkate
     github: totewar
     email: sanket@totewar.com
-    whereby: sunkissed
     pdf: https://github.com/totewar/online-cv/blob/master/media/CV_Sanket_Totewar.pdf
 
     languages:
@@ -76,50 +75,28 @@ career-profile:
 education:
     title: Education
     info:
-        - degree: Master of Business Administration
-          university: Boston University
-          time: 2022 - 2024
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
-        - degree: Postraduate Certificate in Strategic Management
-          university: Harvard University
-          time: 2018 - 2020
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
-        - degree: Social Computing (non-degree)
-          university: Stanford University
-          time: 2020 - 2020
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
-        - degree: Bachelor of Engineering (Mechanical)
-          university: Pune University
-          time: 2004 - 2010
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Experiences
     info:
@@ -141,91 +118,122 @@ experiences:
         time: May 2017 - Apr 2019
         company: Leadbolt, Australia
         details: |
-          In 2017 and early 2018, Leadbolt was a global market leader in an ad format technology called “playable ads”. As the only product leader in the company, I managed all cross-functional teams including the internal R&D division that created all innovative mobile ad formats that were responsible for a 58% growth in market share and helped Leadbolt achieve its highest revenue since inception.
-            - Led the entire Product Strategy at Leadbolt
-            - Created and launched a new product "Playable Ads"
-      - role: Product Manager and Technical Writer
-        time: Nov 2015 - Mar 2017
-        company: Vserv Digital Services, India
-        details: |
-          I served as the only Product Manager on the supply-side for VMAX,
-          Vserv’s ad mediation solution that catered to mobile publishers across
-          the world and headed all Technical Writing activities globally.
-            - Redefined entire ad serving logic and data science feature set
-            - Reduced churn and customer support requests globally by 78%
-      - role: Several Roles
-        time: Dec 2010 - Nov 2015
-        company: Several Companies, India
-        details: |
-          Between 2010 and 2015, I worked as a Product Manager, Technical Writer,
-          and Consultant at several companies spanning multiple indistries.
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#oss:
-#    title: OSS Contributions
-#    intro: >
-#      You can list your open source software contributions in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+            
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+        
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
